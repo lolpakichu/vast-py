@@ -352,7 +352,7 @@ class Class(arcade.Window):
 
 
 def main():
-    st = arcade.load_sound("images/Song.mp3")
+    st = arcade.load_sound("images/PixelSong.mp3")
     arcade.play_sound(st)
     Class()
     arcade.run()
