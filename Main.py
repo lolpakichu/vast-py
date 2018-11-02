@@ -16,7 +16,7 @@ class Class(arcade.Window):
     """ Main application class """
 
     def __init__(self):
-        super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, "10 Second Shooter")
+        super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, "Vast")
 
         # Set the working directory (where we expect to find files) to the same
         # directory this .py file is in. You can leave this out of your own
